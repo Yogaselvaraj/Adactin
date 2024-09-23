@@ -35,6 +35,8 @@ public class Execute2 {
 		System.out.println(tags.getName());
 		
 		System.out.println(readValue.getStatus());
+		
+		System.out.println("Welcome");
 	}
 
 }
